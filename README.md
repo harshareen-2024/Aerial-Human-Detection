@@ -14,8 +14,6 @@ yolo task=detect mode=train data= #path_to_data.yaml model=yolov8n.pt epochs=100
     Labels: human
 
 
-                ![fsi141result0](https://github.com/user-attachments/assets/f438c818-3822-4b85-83fb-3b5d9d59d501)
-
 Prerequisites:
 
     Python 3.8 or higher
