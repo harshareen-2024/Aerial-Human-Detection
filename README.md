@@ -9,8 +9,11 @@ The dataset used for training and testing the YOLOv8 model consists of aerial im
 
 The command line argument for training the dataset in Linux:
 
-Command-Line argument for Training 
-yolo task=detect mode=train data= #path_to_data.yaml model=yolov8n.pt epochs=100 imgsz=640
+Command-Line argument for Training :
+                
+                yolo task=detect mode=train data= #path_to_data.yaml model=yolov8n.pt epochs=100 imgsz=640
+                
+TOOLS:
 
     Annotation Tool: Roboflow
     Image Sources: Aerial images captured using drones
