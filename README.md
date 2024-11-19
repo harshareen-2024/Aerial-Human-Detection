@@ -1,4 +1,5 @@
-INTRODUCTION:
+Introduction:
+
 This project utilizes YOLOv8 for detecting objects in aerial images. The primary focus is on detecting objects from a dataset created from raw aerial images. It uses OpenCV to save the images with detected objects and can optionally display the images. The results are saved in a specified output folder.
 Dataset:
 
