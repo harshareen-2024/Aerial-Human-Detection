@@ -17,7 +17,7 @@ The command line argument for training the dataset in Linux:
 #Prerequisites:
 
     Python 3.8 or higher
-    GPU support is recommended for faster inference but is not mandatory
+    GPU support is recommended for faster inference 
 
 
 #Usage
