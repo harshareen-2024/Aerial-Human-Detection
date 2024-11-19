@@ -23,7 +23,7 @@ The command line argument for training the dataset in Linux:
 #Usage
 
     Place your input images in the input_images folder.
-    Run the detection script:
+    Run the detection script:yolo_detect.py
 
 python yolo_detect.py
 
