@@ -5,6 +5,8 @@ Dataset:
 
 The dataset used for training and testing the YOLOv8 model consists of aerial images that were annotated and labeled using Roboflow. The dataset is structured into train, val, and test folders and includes a data.yaml file that defines the dataset configuration for YOLO training.
 
+
+
 The command line argument for training the dataset in Linux:
 
 Command-Line argument for Training 
@@ -14,6 +16,7 @@ yolo task=detect mode=train data= #path_to_data.yaml model=yolov8n.pt epochs=100
     Image Sources: Aerial images captured using drones
     Labels: human
 
+![fsi141result0](https://github.com/user-attachments/assets/7aba9480-21f9-41a0-bfd4-51116a9382c0)
 
 Prerequisites:
 
