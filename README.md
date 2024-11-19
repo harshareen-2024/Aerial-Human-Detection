@@ -11,8 +11,14 @@ The dataset used for training and testing the YOLOv8 model consists of aerial im
 The command line argument for training the dataset in Linux:
 
 Command-Line argument for Training :
-                
-yolo task=detect mode=train data= #path_to_data.yaml model=yolov8n.pt epochs=100 imgsz=640
+
+    yolo task=detect mode=train data= #path_to_data.yaml model=yolov8n.pt epochs=100 imgsz=640
+
+Python code for Training the Model:
+
+  To train the YOLOv8 model using the train.py file, run the following command:
+
+    python train.py
                 
 TOOLS:
 
